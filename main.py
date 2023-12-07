@@ -1,3 +1,7 @@
 """Tomando las importaciones del packaing"""
 import pkg
-pkg.primo()
+programs = {
+                "a":pkg.calculadora(),
+                "b":pkg.primo(),
+                "c":pkg.palindromo()
+            }

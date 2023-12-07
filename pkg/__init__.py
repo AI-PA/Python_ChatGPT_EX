@@ -5,3 +5,4 @@ de reducir la importacion final a pkg.nombre_funcion.
 """
 from pkg.ex1_calculadora import calculadora
 from pkg.ex2_primo import primo
+from pkg.ex3_palindromo import palindromo
