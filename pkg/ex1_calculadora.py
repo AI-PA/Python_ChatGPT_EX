@@ -42,4 +42,5 @@ def calculadora():
      else: 
           print("Teclea una opcion valida: ")
 
-calculadora()
+if __name__ =='__main__':
+     calculadora()

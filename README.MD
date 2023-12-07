@@ -8,7 +8,7 @@ los ejercicios son los siguientes:
 
 |Ejercicio  |Nombre |Instrucciones  |Solución   |
 |----       |----    |----           |----    |
-|1  |Calculadora Simple                     |Crea un programa que realice operaciones básicas como suma, resta, multiplicación y división.||
+|1  |Calculadora Simple                     |Crea un programa que realice operaciones básicas como suma, resta, multiplicación y división.|[Solucion](./pkg/1-Calculadora.py)|
 |2  |Número Primo                           |Desarrolla una función que determine si un número dado es primo o no.||
 |3  |Palíndromo                             |Escribe un programa que verifique si una palabra es un palíndromo (se lee igual de izquierda a derecha que de derecha a izquierda).||
 |4  |Contador de Vocales                    |Crea una función que cuente el número de vocales en una cadena de texto.||
@@ -28,3 +28,4 @@ los ejercicios son los siguientes:
 |18 |Cifrado César                          |Implementa una función que realice el cifrado César en una cadena de texto.||
 |19 |Juego del Ahorcado                     |Crea un juego del ahorcado en el que el programa elija una palabra y el usuario tenga que adivinarla.||
 |20 |Simulador de Banco                     |Desarrolla un programa que simule las operaciones básicas de un banco (depósitos, retiros, saldo, etc.).||
+|21| Crear un Packagin con los ejercicios| Como reto personal y aumentando un poco la dificultad decidi hacer todo las funciones como pkg.| [Main](./main.py)|
