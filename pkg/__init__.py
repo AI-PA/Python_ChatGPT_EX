@@ -1,2 +1,7 @@
-#Importando funciones de los diferentes archivos. 
+"""
+Importando modulos con las funciones de cada archivo, con el objetivo
+de reducir la importacion final a pkg.nombre_funcion. 
+
+"""
 from pkg.ex1_calculadora import calculadora
+from pkg.ex2_primo import primo

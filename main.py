@@ -1,3 +1,3 @@
-    """Tomando las importaciones del packaing"""
+"""Tomando las importaciones del packaing"""
 import pkg
-pkg.calculadora()
+pkg.primo()
