@@ -1,5 +1,7 @@
 """
-Funcion para ser parte del packaing. 
+Funcion para ser parte del packaing. Escribe un programa que verifique 
+si una palabra es un palíndromo (se lee igual de izquierda a derecha 
+que de derecha a izquierda)
 """
 def palindromo():
     """funcion que identifica si una palabra es palindromo. 
