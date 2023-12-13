@@ -8,11 +8,11 @@ los ejercicios son los siguientes:
 
 |Ejercicio  |Nombre |Instrucciones  |Solución   |
 |----       |----    |----           |----    |
-|1|Calculadora Simple|Crea un programa que realice operaciones básicas como suma, resta, multiplicación y división.|[Solucion](./pkg/ex1_calculadora.py)|
-|2|Número Primo|Desarrolla una función que determine si un número dado es primo o no.|[Solucion](./pkg/ex2_primo.py)|
-|3|Palíndromo|Escribe un programa que verifique si una palabra es un palíndromo (se lee igual de izquierda a derecha que de derecha a izquierda).|[Solucion](./pkg/ex3_palindromo.py)|
-|4|Contador de Vocales|Crea una función que cuente el número de vocales en una cadena de texto.|[Solucion](./pkg/ex4_count_vocales.py)|
-|5|Fibonacci|Implementa una función que genere los primeros N términos de la secuencia de Fibonacci.||
+|1|Calculadora Simple|Crea un programa que realice operaciones básicas como suma, resta, multiplicación y división.|[Solución](./pkg/ex1_calculadora.py)|
+|2|Número Primo|Desarrolla una función que determine si un número dado es primo o no.|[Solución](./pkg/ex2_primo.py)|
+|3|Palíndromo|Escribe un programa que verifique si una palabra es un palíndromo (se lee igual de izquierda a derecha que de derecha a izquierda).|[Solución](./pkg/ex3_palindromo.py)|
+|4|Contador de Vocales|Crea una función que cuente el número de vocales en una cadena de texto.|[Solución](./pkg/ex4_count_vocales.py)|
+|5|Fibonacci|Implementa una función que genere los primeros N términos de la secuencia de Fibonacci.|[Solución](./pkg/ex5_Fibonacci.py)|
 |6|Ordenamiento de Listas |Desarrolla un algoritmo para ordenar una lista de números en orden ascendente.||
 |7|Factorial  |Escribe una función que calcule el factorial de un número dado.||
 |8|Conversor de Temperatura|Crea un programa que convierta grados Celsius a Fahrenheit y viceversa.||
@@ -28,4 +28,4 @@ los ejercicios son los siguientes:
 |18|Cifrado César|Implementa una función que realice el cifrado César en una cadena de texto.||
 |19|Juego del Ahorcado|Crea un juego del ahorcado en el que el programa elija una palabra y el usuario tenga que adivinarla.||
 |20|Simulador de Banco|Desarrolla un programa que simule las operaciones básicas de un banco (depósitos, retiros, saldo, etc.).||
-|21| Crear un Packagin con los ejercicios| Como reto personal y aumentando un poco la dificultad decidi hacer todo las funciones como pkg.| [Main](./main.py)|
+|21| Crear un Packaging con los ejercicios| Como reto personal y aumentando un poco la dificultad decidí hacer todo las funciones como pkg.| [Main](./main.py)|
