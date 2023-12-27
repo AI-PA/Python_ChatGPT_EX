@@ -8,3 +8,5 @@ from pkg.ex2_primo import primo
 from pkg.ex3_palindromo import palindromo
 from pkg.ex4_count_vocales import count_vocales
 from pkg.ex5_Fibonacci import Posicion_Fibonachi
+from pkg.ex6_Ordenamiento import mergeSort
+from pkg.ex6_Ordenamiento import choose

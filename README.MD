@@ -13,7 +13,7 @@ los ejercicios son los siguientes:
 |3|Palíndromo|Escribe un programa que verifique si una palabra es un palíndromo (se lee igual de izquierda a derecha que de derecha a izquierda).|[Solución](./pkg/ex3_palindromo.py)|
 |4|Contador de Vocales|Crea una función que cuente el número de vocales en una cadena de texto.|[Solución](./pkg/ex4_count_vocales.py)|
 |5|Fibonacci|Implementa una función que genere los primeros N términos de la secuencia de Fibonacci.|[Solución](./pkg/ex5_Fibonacci.py)|
-|6|Ordenamiento de Listas |Desarrolla un algoritmo para ordenar una lista de números en orden ascendente.||
+|6|Ordenamiento de Listas |Desarrolla un algoritmo para ordenar una lista de números en orden ascendente.|[Solución](./pkg/ex6_Ordenamiento.py)|
 |7|Factorial  |Escribe una función que calcule el factorial de un número dado.||
 |8|Conversor de Temperatura|Crea un programa que convierta grados Celsius a Fahrenheit y viceversa.||
 |9|Contador de Palabras |Desarrolla una función que cuente el número de palabras en una oración.||
