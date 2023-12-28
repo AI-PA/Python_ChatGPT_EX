@@ -12,3 +12,4 @@ from pkg.ex6_Ordenamiento import mergeSort
 from pkg.ex6_Ordenamiento import choose
 from pkg.ex7_Factorial import factorial
 from pkg.ex7_Factorial import factorial_print
+from pkg.ex8_Temperatura import Conversor_Temperatura
