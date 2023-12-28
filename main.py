@@ -6,5 +6,6 @@ programs = {
                 "c":pkg.palindromo(),
                 "d":pkg.count_vocales(),
                 "e":pkg.Posicion_Fibonachi(),
-                "f":pkg.choose()
+                "f":pkg.choose(),
+                "g":pkg.factorial_print()
             }
