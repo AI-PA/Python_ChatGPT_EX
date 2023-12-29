@@ -16,8 +16,8 @@ los ejercicios son los siguientes:
 |6|Ordenamiento de Listas |Desarrolla un algoritmo para ordenar una lista de números en orden ascendente.|[Solución](./pkg/ex6_Ordenamiento.py)|
 |7|Factorial  |Escribe una función que calcule el factorial de un número dado.|[Solución](./pkg/ex7_Factorial.py)|
 |8|Conversor de Temperatura|Crea un programa que convierta grados Celsius a Fahrenheit y viceversa.|[Solución](./pkg/ex8_Temperatura.py)|
-|9|Contador de Palabras |Desarrolla una función que cuente el número de palabras en una oración.||
-|10|Detección de Números Duplicados|Implementa un programa que identifique números duplicados en una lista.||
+|9|Contador de Palabras |Desarrolla una función que cuente el número de palabras en una oración.|[Solución](./pkg/ex9_contador_palabras.py)|
+|10|Detección de Números Duplicados|Implementa un programa que identifique números duplicados en una lista.|[Solución](./pkg/ex10_detencion_numero.py)|
 |11|Adivina el Número|Crea un juego en el que el programa elija un número aleatorio y el usuario tenga que adivinarlo.||
 |12|Calculadora de Potencias|Desarrolla una función que calcule una base elevada a una potencia sin utilizar el operador **.||
 |13|Inversión de Palabras|Escribe un programa que invierta el orden de las palabras en una oración.||

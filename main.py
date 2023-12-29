@@ -10,4 +10,5 @@ programs = {
                 "g":pkg.factorial_print(),
                 "h":pkg.Conversor_Temperatura(),
                 "i":pkg.texto_y_numero(),
+                "j":pkg.generar_numeros(),
             }

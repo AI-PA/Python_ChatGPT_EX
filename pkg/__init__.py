@@ -14,3 +14,4 @@ from pkg.ex7_Factorial import factorial
 from pkg.ex7_Factorial import factorial_print
 from pkg.ex8_Temperatura import Conversor_Temperatura
 from pkg.ex9_contador_palabras import texto_y_numero
+from pkg.ex10_detencion_numero import generar_numeros
