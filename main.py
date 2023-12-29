@@ -8,5 +8,6 @@ programs = {
                 "e":pkg.Posicion_Fibonachi(),
                 "f":pkg.choose(),
                 "g":pkg.factorial_print(),
-                "h":pkg.Conversor_Temperatura()
+                "h":pkg.Conversor_Temperatura(),
+                "i":pkg.texto_y_numero(),
             }
