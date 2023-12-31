@@ -24,3 +24,6 @@ def generar_numeros():
     numeros = [random.randint(1,50) for i in range(100)]
     print (f"la lista de numeros es : {numeros} \n\n")
     print(f" y la frecuencia en la que aparecen los números es la siguiente: {contador_num(numeros)}")
+
+if __name__ =='__main__':
+    generar_numeros()

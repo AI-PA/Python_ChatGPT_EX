@@ -11,4 +11,5 @@ programs = {
                 "h":pkg.Conversor_Temperatura(),
                 "i":pkg.texto_y_numero(),
                 "j":pkg.generar_numeros(),
+                "k":pkg.adivina_numero(),
             }
