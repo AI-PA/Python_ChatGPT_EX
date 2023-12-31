@@ -12,4 +12,5 @@ programs = {
                 "i":pkg.texto_y_numero(),
                 "j":pkg.generar_numeros(),
                 "k":pkg.adivina_numero(),
+                "l":pkg.potenciar_numero(),
             }

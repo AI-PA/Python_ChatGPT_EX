@@ -16,3 +16,4 @@ from pkg.ex8_Temperatura import Conversor_Temperatura
 from pkg.ex9_contador_palabras import texto_y_numero
 from pkg.ex10_detencion_numero import generar_numeros
 from pkg.ex11_adivina_numero import adivina_numero
+from pkg.ex12_calculadora_potencias import potenciar_numero
