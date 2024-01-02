@@ -21,7 +21,7 @@ los ejercicios son los siguientes:
 |11|Adivina el Número|Crea un juego en el que el programa elija un número aleatorio y el usuario tenga que adivinarlo.|[Solución](./pkg/ex11_adivina_numero.py)|
 |12|Calculadora de Potencias|Desarrolla una función que calcule una base elevada a una potencia sin utilizar el operador **.|[Solución](./pkg/ex12_calculadora_potencias.py)|
 |13|Inversión de Palabras|Escribe un programa que invierta el orden de las palabras en una oración.|[Solución](./pkg/ex13_inversion_palabras.py)|
-|14|Validador de Contraseñas|Crea una función que valide si una contraseña cumple con ciertos criterios (longitud, presencia de números y letras, etc.)||
+|14|Validador de Contraseñas|Crea una función que valide si una contraseña cumple con ciertos criterios (longitud, presencia de números y letras, etc.)|[Solución](./pkg/ex14_validador_contrasena.py)|
 |15|Suma de Matrices|Implementa una función que sume dos matrices bidimensionales.||
 |16|Generador de Contraseñas Aleatorias:|Desarrolla un programa que genere contraseñas aleatorias con una longitud dada.||
 |17|Buscador de Archivos Duplicados:|Escribe un programa que encuentre archivos duplicados en un directorio dado.||

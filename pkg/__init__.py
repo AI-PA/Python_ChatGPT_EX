@@ -18,3 +18,4 @@ from pkg.ex10_detencion_numero import generar_numeros
 from pkg.ex11_adivina_numero import adivina_numero
 from pkg.ex12_calculadora_potencias import potenciar_numero
 from pkg.ex13_inversion_palabras import inversion_palabras
+from pkg.ex14_validador_contrasena import validador_contrasena
