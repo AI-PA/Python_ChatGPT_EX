@@ -13,4 +13,5 @@ programs = {
                 "j":pkg.generar_numeros(),
                 "k":pkg.adivina_numero(),
                 "l":pkg.potenciar_numero(),
+                "m":pkg.inversion_palabras(),
             }
