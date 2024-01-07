@@ -20,3 +20,4 @@ from pkg.ex12_calculadora_potencias import potenciar_numero
 from pkg.ex13_inversion_palabras import inversion_palabras
 from pkg.ex14_validador_contrasena import validador_contrasena
 from pkg.ex15_suma_matriz import suma_matriz
+from pkg.ex16_generador_contrasena import generador_contrasena

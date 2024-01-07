@@ -15,4 +15,5 @@ programs = {
                 "l":pkg.potenciar_numero(),
                 "m":pkg.inversion_palabras(),
                 "n":pkg.validador_contrasena(),
+                "o":pkg.generador_contrasena(),
             }
