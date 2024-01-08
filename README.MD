@@ -26,6 +26,6 @@ los ejercicios son los siguientes:
 |16|Generador de Contraseñas Aleatorias:|Desarrolla un programa que genere contraseñas aleatorias con una longitud dada.|[Solución](./pkg/ex16_generador_contrasena.py)|
 |17|Buscador de Archivos Duplicados:|Escribe un programa que encuentre archivos duplicados en un directorio dado.|[Solución](./pkg/ex17_archivos_repetidos.py)|
 |18|Cifrado César|Implementa una función que realice el cifrado César en una cadena de texto.|[Solución](./pkg/ex18_cifrado_cesar.py)|
-|19|Juego del Ahorcado|Crea un juego del ahorcado en el que el programa elija una palabra y el usuario tenga que adivinarla.|[Solucion](./pkg/ex19_el_ahorcado.py)|
-|20|Simulador de Banco|Desarrolla un programa que simule las operaciones básicas de un banco (depósitos, retiros, saldo, etc.).||
+|19|Juego del Ahorcado|Crea un juego del ahorcado en el que el programa elija una palabra y el usuario tenga que adivinarla.|[Solución](./pkg/ex19_el_ahorcado.py)|
+|20|Simulador de Banco|Desarrolla un programa que simule las operaciones básicas de un banco (depósitos, retiros, saldo, etc.).|[Solución](./pkg/ex20_banco.py)|
 |21| Crear un Packaging con los ejercicios| Como reto personal y aumentando un poco la dificultad decidí hacer todo las funciones como pkg.| [Main](./main.py)|

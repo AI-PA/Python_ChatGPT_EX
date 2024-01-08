@@ -19,4 +19,5 @@ programs = {
                 "p":pkg.archivos(),
                 "q":pkg.cifrado_cesar(),
                 "r":pkg.ahorcado(),
+                "s":pkg.banco()
             }
