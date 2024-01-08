@@ -17,4 +17,5 @@ programs = {
                 "n":pkg.validador_contrasena(),
                 "o":pkg.generador_contrasena(),
                 "p":pkg.archivos(),
+                "q":pkg.cifrado_cesar(),
             }
