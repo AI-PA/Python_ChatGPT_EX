@@ -23,3 +23,4 @@ from pkg.ex15_suma_matriz import suma_matriz
 from pkg.ex16_generador_contrasena import generador_contrasena
 from pkg.ex17_archivos_repetidos import archivos
 from pkg.ex18_cifrado_cesar import cifrado_cesar
+from pkg.ex19_el_ahorcado import ahorcado
